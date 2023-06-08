@@ -9,7 +9,7 @@ body {
     white-space: nowrap;
     align-items: center;
     justify-content: space-around;
-    /* Previous code
+    /* Old code
     gap: 2rem; */
     height: 7rem;
     list-style-type: none;
